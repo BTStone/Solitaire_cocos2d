@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Lang>
+    <string key="KEY" value="Russian"/>
+    <string key="language" value=" русский "/>
+    <string key="selectLanguage" value="язык"/>
+    <string key="ContactUs" value="связаться с нами"/>
+    <string key="score" value="Счет"/>
+    <string key="time" value="время"/>
+    <string key="moves" value="ходы"/>
+    <string key="options" value="опции"/>
+    <string key="daily" value="день"/>
+    <string key="play" value="Игра"/>
+    <string key="hint" value="помощь"/>
+    <string key="undo" value="отмена"/>
+    <string key="manual" value="вручную"/>
+    <string key="auto" value="Настроить"/>
+    <string key="sound" value="звуки"/>
+    <string key="on" value="на"/>
+    <string key="off" value="от"/>
+    <string key="draw 3" value="По три карты"/>
+    <string key="backdrop" value="Фон"/>
+    <string key="front style" value="Лицевая сторона"/>
+    <string key="back style" value="Рубашка"/>
+    <string key="done" value="ОК"/>
+    <string key="in use" value="в использовании"/>
+    <string key="lock" value="замок"/>
+    <string key="card back style" value="Рубашка"/>
+    <string key="card front style" value="Лицевая сторона"/>
+    <string key="card" value="карта"/>
+    <string key="daily challenge" value="миссия День"/>
+    <string key="Monday" value="Понедельник"/>
+    <string key="Tuesday" value="вторник "/>
+    <string key="Wednesday" value="среда"/>
+    <string key="Thursday" value="четвёрг "/>
+    <string key="Friday" value="пятница"/>
+    <string key="Saturday" value="суббота "/>
+    <string key="Sunday" value="воскрсенье"/>
+    <string key="January" value="Январь"/>
+    <string key="February" value="Февраль"/>
+    <string key="March" value="Март"/>
+    <string key="April" value="Апрель"/>
+    <string key="May" value="май"/>
+    <string key="June" value="Июнь"/>
+    <string key="July" value="Июль"/>
+    <string key="August" value="Август"/>
+    <string key="September" value="Сентябрь"/>
+    <string key="October" value="Октябрь"/>
+    <string key="November" value="Ноябрь"/>
+    <string key="December" value="декабрь"/>
+    <string key="Mon." value="ПН"/>
+    <string key="Tues." value="ВТ"/>
+    <string key="Wed." value="СР"/>
+    <string key="Thur." value="ЧТ"/>
+    <string key="Fri." value="ПТ"/>
+    <string key="Sat." value="СБ"/>
+    <string key="Sun." value="ВС "/>
+    <string key="previous" value="предыдущий"/>
+    <string key="next" value="следующий"/>
+    <string key="this month" value="месяц"/>
+    <string key="all time" value="общий"/>
+    <string key="unsolved" value="нерешенный"/>
+    <string key="solved" value="решена"/>
+    <string key="Receive Notification" value="Уведомление о приеме"/>
+    <string key="daily information" value="День брифинг миссии"/>
+    <string key="Daily deal" value="Ежедневные задачи"/>
+    <string key="Earn crown" value="заработать корону"/>
+    <string key="The best score Earn platinum crown" value="Лучший результат Заработать платины корону"/>
+    <string key="Daily login earn trophy" value="Ежедневно Войти заработать медаль"/>
+    <string key="NEW GAME" value="НОВАЯ ИГРА"/>
+    <string key="REPLAY" value="переигрывать"/>
+    <string key="STATISTICS" value="СТАТИСТИКА"/>
+    <string key="SCORES" value="Счет"/>
+    <string key="7 DAYS" value="СЕМЬ ДНЕЙ"/>
+    <string key="ALL STATISTICS" value="ВСЕ СТАТИСТИКА"/>
+    <string key="Games Played :" value="сыграно Игр:"/>
+    <string key="Games Won :" value="Выиграно игр :"/>
+    <string key="Winning Streak:" value="Победную серию:"/>
+    <string key="Win % :" value="Шанс на победу :"/>
+    <string key="Best Moves :" value="Наименьшее движется :"/>
+    <string key="Best Time :" value="кратчайшее время :"/>
+    <string key="Best Score :" value="Лучший результат :"/>
+    <string key="Cumulative Score :" value="Самый высокий балл :"/>
+    <string key="DRAW 1 MODEL" value="По одной карте"/>
+    <string key="DRAW 3 MODEL" value="По три карты"/>
+    <string key="RESET" value="СБРОС"/>
+    <string key="7 DAYS RECORD" value="СЕМЬ ДНЕЙ запись"/>
+    <string key="HISTORY" value="ИСТОРИЯ"/>
+    <string key="Date" value="Дата"/>
+    <string key="7 days Solitaire you will get crown.Do your grades improve every day?" value="7 дней Solitaire вы получите корону.
+Ваши сорта улучшить ли каждый день?"/>
+    <string key="Thanks for your rating." value="Спасибо за оценку."/>
+    <string key="Congratulation! Check new card back in option" value="Поздравление! У вас есть разблокировать новую карту обратно. Пожалуйста. проверьте вариант -&gt;Рубашка"/>
+    <string key="Congratulation! Check new Backdrop in option" value="Поздравление! У вас есть разблокировать новый ФОН. Пожалуйста, проверьте опции -&gt; Фон"/>
+    <string key="You are running an unfinished game." value="Вы работаете в незавершенную игру."/>
+    <string key="New Daily Challenge is ready." value="Новый ежедневный вызов готов."/>
+    <string key="Enjoying Solitaire?" value="Смотрим пасьянс?"/>
+    <string key="Please let us know what you think. You will unlock backdrop style as a gift." value="Пожалуйста. сообщите нам свое мнение.
+Вы разблокировать карту Фон в качестве подарка."/>
+    <string key="Please let us know what you think. You will unlock card back style as a gift." value="Пожалуйста. сообщите нам свое мнение.
+Вы разблокировать карту Фон в качестве подарка."/>
+    <string key="tap star to rate" value="нажмите пять звезд. чтобы проголосовать"/>
+    <string key="Later" value="Позже"/>
+    <string key="Rate" value="ОТЗЫВЫ"/>
+    <string key="GAME SCORE" value="оценка игре"/>
+    <string key="Today Best :" value="Сегодня Лучшие :"/>
+    <string key="Record :" value="Record :"/>
+    <string key="AUTO COMPLETE!" value="Сложить пасьянс автоматически!"/>
+    <string key="OK" value="OK"/>
+    <string key="CANCEL" value="ОТМЕНА"/>
+    <string key="Hello." value="Здравствуйте."/>
+    <string key="Daily Medal" value="Ежедневная чашка"/>
+    <string key="Got silver Medal" value="Получили серебряный кубок"/>
+    <string key="11 until gold Medal" value="11 получил золотой кубок"/>
+    <string key="25 until platinum gold Medal" value="25 получил платиновый золотой кубок"/>
+    <string key="Play Times" value="Игра Продолжительность"/>
+    <string key="Achievement" value="Достижение"/>
+    <string key="[000000]Every day a new special deal unlocks for you to play.[-]" value="[504141]Ежедневные задачи[-]"/>
+    <string key="[000000]Beating any deal on the challenge will earn you a [ffaa00]crown[-] for that day.[-]" value="[504141]Конец Ежедневные задачи. заработать[ffaa00] Улыбка[-][-]"/>
+    <string key="[000000]But only one [ffaa00]platinum crown[-] will be left for the best day.[-]" value="[504141]лучший результат заработать [ffaa00]смех[-] каждый месяц[-]"/>
+    <string key="[000000]The more days of the month you play and win.the better your [ffaa00]trophy[-] will be.[-]" value="[504141]завершить сделку более ежедневную. получить лучшее [ffaa00] медаль[-][-]"/>
+    <string key="Personal" value="личный"/>
+    <string key="[504141]Do you want to play [-][348e39]Daily Challenge[-][504141]?[-]" value="[504141]Вы хотите играть в ежедневный вызов?[-]"/>
+    <string key="EASY" value="легкий"/>
+    <string key="NORMAL" value="НОРМАЛЬНЫЙ"/>
+    <string key="HARD" value="ЖЕСТКИЙ"/>
+    <string key="Every day of the first game is easy.
+This is a chance to get high score." value="Каждый день первой игры легко.
+Это шанс. чтобы получить высокий балл."/>
+    <string key="Are you sure you want to reset statistics?" value="Вы уверены. что хотите сбросить статистику?"/>
+    <string key="draw 1" value="draw 1"/>
+    <string key="solitaire" value="пасьянс"/>
+    <string key="Invite Title" value="Пригласить друзей в пасьянс"/>
+    <string key="Invite Message" value="Вы должны попробовать эту замечательную игру ..."/>
+    <string key="Invite Friends" value="пригласить друзей"/>
+    <string key="Invite Friends to unlock new card back style?" value="пригласить 4 друзей. чтобы открыть новую карту назад стиль?"/>
+    <string key="Invite Friends to unlock new Backdrop style?" value="пригласить 4 друзей. чтобы открыть новый фон?"/>
+    <string key="Invite Button" value="просить"/>
+    <string key="LeftHand" value="левая рука"/>
+    <string key="Orientation" value="Ориентация"/>
+    <string key="Portrait" value="Книжная"/>
+    <string key="Landscape" value="Уровни"/>
+    <string key="New Windows 10 theme.Check it out!!" value="Новый Windows 10 тема. Проверьте это !!"/>
+    <string key="Free and no ads. Enjoy it please!!" value="Свободные и нет объявлений. не пользуются сейчас !!"/>
+    <string key="Landscape setting has come.have a try!!" value="Пейзаж пришел. попробуйте играть !!"/>
+    <string key="Warning! someone challenge you!!" value="Предупреждение! кто-то вызов к вам !!"/>
+    <string key="You friend sent a Windows 10 theme to you." value="Вы друг отправить Windows 10 тему для вас"/>
+    <string key="You friend just broke your record.come to challenge!" value="Вы друг просто разорвать вашу запись. пришел вызов!"/>
+    <string key="NEW BACKDROP" value="новый ФОН"/>
+    <string key="change to new backdrop?" value="изменится на новый фон ?"/>
+    <string key="NetworkFailInfo" value="Для данной функции необходимо подключение к сети."/>
+</Lang>

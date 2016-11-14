@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Lang>
+    <string key="KEY" value="ChineseSimplified"/>
+    <string key="language" value="简体中文"/>
+    <string key="selectLanguage" value="选择语言"/>
+    <string key="ContactUs" value="联系我们"/>
+    <string key="score" value="得分"/>
+    <string key="time" value="时间"/>
+    <string key="moves" value="移动"/>
+    <string key="options" value="设置"/>
+    <string key="daily" value="每日"/>
+    <string key="play" value="开始"/>
+    <string key="hint" value="提示"/>
+    <string key="undo" value="回退"/>
+    <string key="manual" value="手动"/>
+    <string key="auto" value="自动"/>
+    <string key="sound" value="音效"/>
+    <string key="on" value="开"/>
+    <string key="off" value="关"/>
+    <string key="draw 3" value="翻3张牌"/>
+    <string key="backdrop" value="桌面背景"/>
+    <string key="front style" value="牌面样式"/>
+    <string key="back style" value="牌背样式"/>
+    <string key="done" value="完成"/>
+    <string key="in use" value="正在使用"/>
+    <string key="lock" value="锁定中"/>
+    <string key="card back style" value="牌背样式"/>
+    <string key="card front style" value="牌面样式"/>
+    <string key="card" value="牌"/>
+    <string key="daily challenge" value="每日挑战"/>
+    <string key="Monday" value="周一"/>
+    <string key="Tuesday" value="周二"/>
+    <string key="Wednesday" value="周三"/>
+    <string key="Thursday" value="周四"/>
+    <string key="Friday" value="周五"/>
+    <string key="Saturday" value="周六"/>
+    <string key="Sunday" value="周日"/>
+    <string key="January" value="一月"/>
+    <string key="February" value="二月"/>
+    <string key="March" value="三月"/>
+    <string key="April" value="四月"/>
+    <string key="May" value="五月"/>
+    <string key="June" value="六月"/>
+    <string key="July" value="七月"/>
+    <string key="August" value="八月"/>
+    <string key="September" value="九月"/>
+    <string key="October" value="十月"/>
+    <string key="November" value="十一月"/>
+    <string key="December" value="十二月"/>
+    <string key="Mon." value="周一"/>
+    <string key="Tues." value="周二"/>
+    <string key="Wed." value="周三"/>
+    <string key="Thur." value="周四"/>
+    <string key="Fri." value="周五"/>
+    <string key="Sat." value="周六"/>
+    <string key="Sun." value="周日"/>
+    <string key="previous" value="上一页"/>
+    <string key="next" value="下一页"/>
+    <string key="this month" value="当月"/>
+    <string key="all time" value="所有"/>
+    <string key="unsolved" value="未完成"/>
+    <string key="solved" value="已完成"/>
+    <string key="Receive Notification" value="接收推送"/>
+    <string key="daily information" value="每日挑战说明"/>
+    <string key="Daily deal" value="每日任务"/>
+    <string key="Earn crown" value="赢取皇冠"/>
+    <string key="The best score Earn platinum crown" value="最好成绩赢得白金皇冠"/>
+    <string key="Daily login earn trophy" value="每日登陆得豪礼"/>
+    <string key="NEW GAME" value="新的游戏"/>
+    <string key="REPLAY" value="重玩"/>
+    <string key="STATISTICS" value="统计"/>
+    <string key="SCORES" value="得分"/>
+    <string key="7 DAYS" value="7日成就"/>
+    <string key="ALL STATISTICS" value="所有统计"/>
+    <string key="Games Played :" value="游戏次数:"/>
+    <string key="Games Won :" value="胜利次数:"/>
+    <string key="Winning Streak:" value="连胜:"/>
+    <string key="Win % :" value="胜率:"/>
+    <string key="Best Moves :" value="最佳移动:"/>
+    <string key="Best Time :" value="最佳时间:"/>
+    <string key="Best Score :" value="最佳得分:"/>
+    <string key="Cumulative Score :" value="累计得分:"/>
+    <string key="DRAW 1 MODEL" value="一张牌模式"/>
+    <string key="DRAW 3 MODEL" value="三张牌模式"/>
+    <string key="RESET" value="重置"/>
+    <string key="7 DAYS RECORD" value="7日记录"/>
+    <string key="HISTORY" value="历史记录"/>
+    <string key="Date" value="日期"/>
+    <string key="7 days Solitaire you will get crown.Do your grades improve every day?" value="连续7日挑战可获得皇冠，加油吧！"/>
+    <string key="Thanks for your rating." value="感谢您的评论！"/>
+    <string key="Congratulation! Check new card back in option" value="恭喜！请在设置中查收新的牌背样式。"/>
+    <string key="Congratulation! Check new Backdrop in option" value="恭喜！请在设置中查收新的背景图片。"/>
+    <string key="You are running an unfinished game." value="您当前游戏还在运行中！"/>
+    <string key="New Daily Challenge is ready." value="新的每日挑战已经准备好了！"/>
+    <string key="Enjoying Solitaire?" value="纸牌玩的愉快吗？"/>
+    <string key="Please let us know what you think. You will unlock backdrop style as a gift." value="让我们知道您的想法，可获得全新的背景图片！"/>
+    <string key="Please let us know what you think. You will unlock card back style as a gift." value="让我们知道您的想法，可获得全新的牌背样式！"/>
+    <string key="tap star to rate" value="请给我们五星评价吧！"/>
+    <string key="Later" value="稍后"/>
+    <string key="Rate" value="评价"/>
+    <string key="GAME SCORE" value="游戏得分"/>
+    <string key="Today Best :" value="今日最佳:"/>
+    <string key="Record :" value="记录:"/>
+    <string key="AUTO COMPLETE!" value="自动完成！"/>
+    <string key="OK" value="好"/>
+    <string key="CANCEL" value="取消"/>
+    <string key="Hello." value="你好！"/>
+    <string key="Daily Medal" value="每日挑战奖章"/>
+    <string key="Got silver Medal" value="获得银奖章！"/>
+    <string key="11 until gold Medal" value="获得金奖章！"/>
+    <string key="25 until platinum gold Medal" value="获得白金奖章！"/>
+    <string key="Play Times" value="游戏时长"/>
+    <string key="Achievement" value="成就"/>
+    <string key="[000000]Every day a new special deal unlocks for you to play.[-]" value="[504141]每日都有新的任务让你玩！[-]"/>
+    <string key="[000000]Beating any deal on the challenge will earn you a [ffaa00]crown[-] for that day.[-]" value="[504141]完成任何一天的挑战都将获得当日的[ffaa00]微笑脸[-]！[-]"/>
+    <string key="[000000]But only one [ffaa00]platinum crown[-] will be left for the best day.[-]" value="[504141]当月最佳成绩那天可获得第一无二的[ffaa00]大笑脸[-]！[-]"/>
+    <string key="[000000]The more days of the month you play and win.the better your [ffaa00]trophy[-] will be.[-]" value="[504141]完成越多的每日挑战，获得[ffaa00]奖章[-]的等级越高！[-]"/>
+    <string key="Personal" value="个人"/>
+    <string key="[504141]Do you want to play [-][348e39]Daily Challenge[-][504141]?[-]" value="[504141]你想完成每日挑战吗？[-]"/>
+    <string key="EASY" value="简单"/>
+    <string key="NORMAL" value="一般"/>
+    <string key="HARD" value="困难"/>
+    <string key="Every day of the first game is easy.
+This is a chance to get high score." value="每日的第一场游戏比较容易。这是一个获得高分的机会，不要错过哦！"/>
+    <string key="Are you sure you want to reset statistics?" value="你确定要重置统计数据吗？"/>
+    <string key="draw 1" value="翻1张牌"/>
+    <string key="solitaire" value="纸牌接龙"/>
+    <string key="Invite Title" value="邀请好友一起玩接龙"/>
+    <string key="Invite Message" value="你一定不能错过这款超好玩的经典游戏..."/>
+    <string key="Invite Friends" value="邀请好友"/>
+    <string key="Invite Friends to unlock new card back style?" value="邀请4位好友，即可获得新的卡背！"/>
+    <string key="Invite Friends to unlock new Backdrop style?" value="邀请4位好友，即可获得新的背景！"/>
+    <string key="Invite Button" value="邀请"/>
+    <string key="LeftHand" value="左手"/>
+    <string key="Orientation" value="重力感应"/>
+    <string key="Portrait" value="垂直画面"/>
+    <string key="Landscape" value="水平画面"/>
+    <string key="New Windows 10 theme.Check it out!!" value="最新Windows 10主题，快来看看吧！"/>
+    <string key="Free and no ads. Enjoy it please!!" value="免费无广告了，快来体验吧！"/>
+    <string key="Landscape setting has come.have a try!!" value="横版来袭，快来体验吧！"/>
+    <string key="Warning! someone challenge you!!" value="快来，有人向你发起挑战！"/>
+    <string key="You friend sent a Windows 10 theme to you." value="你的朋友赠送你Windows 10 主题！"/>
+    <string key="You friend just broke your record.come to challenge!" value="你的朋友刚刚破了新记录，快来挑战吧！"/>
+    <string key="NEW BACKDROP" value="新的背景"/>
+    <string key="change to new backdrop?" value="切换为新的背景？"/>
+    <string key="NetworkFailInfo" value="本功能需要网络支持。"/>
+</Lang>

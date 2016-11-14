@@ -1,0 +1,485 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\AppScene">
+      <UniqueIdentifier>{1497bdf1-d9c3-4abd-a398-57fce8c027ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Base">
+      <UniqueIdentifier>{ca10751e-9dc3-4708-a34e-e48f4d1567b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\AppScene\CardData">
+      <UniqueIdentifier>{fe6fcde9-998f-4ea9-9540-060e9233cf55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\AppScene\CardUI">
+      <UniqueIdentifier>{05bd3a47-0fff-4066-ad01-5be12ebed984}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\tinyxml">
+      <UniqueIdentifier>{c61f690b-b536-48b5-8033-11913be00974}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\AppScene\DailyChallenge">
+      <UniqueIdentifier>{c9b6f02f-8adc-42c8-8d07-8f74bcef49b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\AppScene\OptionBoard">
+      <UniqueIdentifier>{79a9a32a-2db8-4e55-9941-37c100323d1c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\CardData\Card.cpp">
+      <Filter>src\AppScene\CardData</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\CardData\CardQueue.cpp">
+      <Filter>src\AppScene\CardData</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\CardData\CollectCardArea.cpp">
+      <Filter>src\AppScene\CardData</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\CardData\PlaceCardQueue.cpp">
+      <Filter>src\AppScene\CardData</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\CardData\PlaceCardArea.cpp">
+      <Filter>src\AppScene\CardData</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\CardData\CardDataManager.cpp">
+      <Filter>src\AppScene\CardData</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\CardData\HandCardArea.cpp">
+      <Filter>src\AppScene\CardData</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\CardUI\CardSprite.cpp">
+      <Filter>src\AppScene\CardUI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Base\CLDScreen.cpp">
+      <Filter>src\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\SkinManager.cpp">
+      <Filter>src\AppScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\CardUI\UICardQueue.cpp">
+      <Filter>src\AppScene\CardUI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\CardUI\UICollectCardQueue.cpp">
+      <Filter>src\AppScene\CardUI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\CardUI\UIPlaceCardQueue.cpp">
+      <Filter>src\AppScene\CardUI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\CardUI\UIHandClosedCardQueue.cpp">
+      <Filter>src\AppScene\CardUI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\CardUI\UIHandOpenCardQueue.cpp">
+      <Filter>src\AppScene\CardUI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\CardUI\UICollectCardArea.cpp">
+      <Filter>src\AppScene\CardUI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\CardUI\UIHandCardArea.cpp">
+      <Filter>src\AppScene\CardUI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\CardUI\UIPlaceCardArea.cpp">
+      <Filter>src\AppScene\CardUI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\GameLayer.cpp">
+      <Filter>src\AppScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\CardUI\TransportCardQueue.cpp">
+      <Filter>src\AppScene\CardUI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\BottomMenuNode.cpp">
+      <Filter>src\AppScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\PlayBoard.cpp">
+      <Filter>src\AppScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\MySwichControl.cpp">
+      <Filter>src\AppScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Base\STHelper.cpp">
+      <Filter>src\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\IOManager.cpp">
+      <Filter>src\AppScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\TipManager.cpp">
+      <Filter>src\AppScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\UndoManager.cpp">
+      <Filter>src\AppScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\ClientAndroid.cpp">
+      <Filter>src\AppScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\ScreenDirectionManager.cpp">
+      <Filter>src\AppScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\StartLayer.cpp">
+      <Filter>src\AppScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Base\STLang.cpp">
+      <Filter>src\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\tinyxml\tinystr.cpp">
+      <Filter>src\tinyxml</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\tinyxml\tinyxml.cpp">
+      <Filter>src\tinyxml</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\tinyxml\tinyxmlerror.cpp">
+      <Filter>src\tinyxml</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\tinyxml\tinyxmlparser.cpp">
+      <Filter>src\tinyxml</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Base\XMLParser.cpp">
+      <Filter>src\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\ClientCtrl.cpp">
+      <Filter>src\AppScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\ServerManager.cpp">
+      <Filter>src\AppScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Base\STLabelBMFont.cpp">
+      <Filter>src\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Base\CLDDesXml.cpp">
+      <Filter>src\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\DailyChallenge\DailyChallengeManager.cpp">
+      <Filter>src\AppScene\DailyChallenge</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\DailyChallenge\CalendarItem.cpp">
+      <Filter>src\AppScene\DailyChallenge</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Base\STTimeManager.cpp">
+      <Filter>src\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\DailyChallenge\Calendar.cpp">
+      <Filter>src\AppScene\DailyChallenge</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\DailyChallenge\DailyChallengeBoard.cpp">
+      <Filter>src\AppScene\DailyChallenge</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\DailyChallenge\DailyChallengeHelpBoard.cpp">
+      <Filter>src\AppScene\DailyChallenge</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Base\NetTime.cpp">
+      <Filter>src\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\OptionBoard\BackDropBoard.cpp">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\OptionBoard\BackStyleOptionBoard.cpp">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\OptionBoard\FrontStyleOptionBoard.cpp">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\OptionBoard\NetworkFailBoard.cpp">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\OptionBoard\OptionBaseBoard.cpp">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\OptionBoard\OptionBoardManager.cpp">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\OptionBoard\RootOptionBoard.cpp">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\OptionBoard\StatisticsBoard.cpp">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\OptionBoard\WinBoard.cpp">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\OptionBoard\LanguageSelectBoard.cpp">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\OptionBoard\InviteDailyChallengeBoard.cpp">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\OptionBoard\RateBoard.cpp">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\LockManager.cpp">
+      <Filter>src\AppScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\OptionBoard\RateSuccessBoard.cpp">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\NotificationManage.cpp">
+      <Filter>src\AppScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\ReportManage.cpp">
+      <Filter>src\AppScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\OptionBoard\ResetDataBoard.cpp">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\OptionBoard\InviteFriendBoard.cpp">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\OptionBoard\InviteFriendSimpleBoard.cpp">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\DailyChallenge\TrophyInfoBoard.cpp">
+      <Filter>src\AppScene\DailyChallenge</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\OptionBoard\NewThemeTipBoard.cpp">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\OptionBoard\InviteSuccessBoard.cpp">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\CardData\NewGameManager.cpp">
+      <Filter>src\AppScene\CardData</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppScene\CSBHelper.cpp">
+      <Filter>src\AppScene</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Base\STBase.h">
+      <Filter>src\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Base\STMacro.h">
+      <Filter>src\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Define.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\CardData\Card.h">
+      <Filter>src\AppScene\CardData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\CardData\CardQueue.h">
+      <Filter>src\AppScene\CardData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\CardData\CollectCardArea.h">
+      <Filter>src\AppScene\CardData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\CardData\PlaceCardQueue.h">
+      <Filter>src\AppScene\CardData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\CardData\PlaceCardArea.h">
+      <Filter>src\AppScene\CardData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\CardData\CardDataManager.h">
+      <Filter>src\AppScene\CardData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\CardData\HandCardArea.h">
+      <Filter>src\AppScene\CardData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\CardUI\CardSprite.h">
+      <Filter>src\AppScene\CardUI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Base\CLDScreen.h">
+      <Filter>src\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\SkinManager.h">
+      <Filter>src\AppScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\CardUI\UICardQueue.h">
+      <Filter>src\AppScene\CardUI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\CardUI\UICollectCardQueue.h">
+      <Filter>src\AppScene\CardUI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\CardUI\UIPlaceCardQueue.h">
+      <Filter>src\AppScene\CardUI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\CardUI\UIHandClosedCardQueue.h">
+      <Filter>src\AppScene\CardUI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\CardUI\UIHandOpenCardQueue.h">
+      <Filter>src\AppScene\CardUI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\CardUI\UICollectCardArea.h">
+      <Filter>src\AppScene\CardUI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\CardUI\UIHandCardArea.h">
+      <Filter>src\AppScene\CardUI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\CardUI\UIPlaceCardArea.h">
+      <Filter>src\AppScene\CardUI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\GameLayer.h">
+      <Filter>src\AppScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\CardUI\TransportCardQueue.h">
+      <Filter>src\AppScene\CardUI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\BottomMenuNode.h">
+      <Filter>src\AppScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\PlayBoard.h">
+      <Filter>src\AppScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\MySwichControl.h">
+      <Filter>src\AppScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Base\STHelper.h">
+      <Filter>src\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\IOManager.h">
+      <Filter>src\AppScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\TipManager.h">
+      <Filter>src\AppScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\UndoManager.h">
+      <Filter>src\AppScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\ClientAndroid.h">
+      <Filter>src\AppScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\ScreenDirectionManager.h">
+      <Filter>src\AppScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\StartLayer.h">
+      <Filter>src\AppScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Base\STLang.h">
+      <Filter>src\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\tinyxml\tinystr.h">
+      <Filter>src\tinyxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\tinyxml\tinyxml.h">
+      <Filter>src\tinyxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Base\XMLParser.h">
+      <Filter>src\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\ClientCtrl.h">
+      <Filter>src\AppScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\ServerManager.h">
+      <Filter>src\AppScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Base\STLabelBMFont.h">
+      <Filter>src\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Base\CLDDesXml.h">
+      <Filter>src\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\DailyChallenge\DailyChallengeManager.h">
+      <Filter>src\AppScene\DailyChallenge</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\DailyChallenge\CalendarItem.h">
+      <Filter>src\AppScene\DailyChallenge</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Base\STTimeManager.h">
+      <Filter>src\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\DailyChallenge\Calendar.h">
+      <Filter>src\AppScene\DailyChallenge</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\DailyChallenge\DailyChallengeBoard.h">
+      <Filter>src\AppScene\DailyChallenge</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\DailyChallenge\DailyChallengeHelpBoard.h">
+      <Filter>src\AppScene\DailyChallenge</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Base\NetTime.h">
+      <Filter>src\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\OptionBoard\BackDropBoard.h">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\OptionBoard\BackStyleOptionBoard.h">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\OptionBoard\FrontStyleOptionBoard.h">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\OptionBoard\NetworkFailBoard.h">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\OptionBoard\OptionBaseBoard.h">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\OptionBoard\OptionBoardManager.h">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\OptionBoard\RootOptionBoard.h">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\OptionBoard\StatisticsBoard.h">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\OptionBoard\WinBoard.h">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\OptionBoard\LanguageSelectBoard.h">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\OptionBoard\InviteDailyChallengeBoard.h">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\OptionBoard\RateBoard.h">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\LockManager.h">
+      <Filter>src\AppScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\OptionBoard\RateSuccessBoard.h">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\NotificationManage.h">
+      <Filter>src\AppScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\ReportManage.h">
+      <Filter>src\AppScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\OptionBoard\ResetDataBoard.h">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\OptionBoard\InviteFriendBoard.h">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\OptionBoard\InviteFriendSimpleBoard.h">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\DailyChallenge\TrophyInfoBoard.h">
+      <Filter>src\AppScene\DailyChallenge</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\OptionBoard\NewThemeTipBoard.h">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\OptionBoard\InviteSuccessBoard.h">
+      <Filter>src\AppScene\OptionBoard</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\CardData\NewGameManager.h">
+      <Filter>src\AppScene\CardData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppScene\CSBHelper.h">
+      <Filter>src\AppScene</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

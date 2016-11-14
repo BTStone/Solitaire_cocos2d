@@ -1,0 +1,15 @@
+diff a/Classes/AppDelegate.cpp b/Classes/AppDelegate.cpp	(rejected hunks)
+@@ -107,10 +107,11 @@
+ void AppDelegate::preloadPicture()
+ {
+ 	vector<string> searchPath; //������Դ·��
++	searchPath.push_back("Resources");
+ 	//��������һ������λ��
+ 	string otherSearchPath = "";
+-	otherSearchPath += "D:\\installpakage\\sdk\\cocos2d-x-3.7.1\\cocos2d-x-3.7.1\\projects\\Solitaire\\Resources";
+-	searchPath.push_back(otherSearchPath);
++	otherSearchPath += "../Resources";
++	//searchPath.push_back(otherSearchPath);
+ 
+ 	FileUtils::getInstance()->setSearchPaths(searchPath); //������Դ����·�� 
+ 	vector<string> r = FileUtils::getInstance()->getSearchPaths();

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Lang>
+    <string key="KEY" value="English"/>
+    <string key="language" value="English"/>
+    <string key="selectLanguage" value="language"/>
+    <string key="ContactUs" value="contact us"/>
+    <string key="score" value="score"/>
+    <string key="time" value="time"/>
+    <string key="moves" value="moves"/>
+    <string key="options" value="OPTIONS"/>
+    <string key="daily" value="DAILY"/>
+    <string key="play" value="PLAY"/>
+    <string key="hint" value="hint"/>
+    <string key="undo" value="UNDO"/>
+    <string key="manual" value="manual"/>
+    <string key="auto" value="auto"/>
+    <string key="sound" value="sound"/>
+    <string key="on" value="on"/>
+    <string key="off" value="off"/>
+    <string key="draw 3" value="draw 3"/>
+    <string key="backdrop" value="backdrop"/>
+    <string key="front style" value="front style"/>
+    <string key="back style" value="back style"/>
+    <string key="done" value="done"/>
+    <string key="in use" value="in use"/>
+    <string key="lock" value="lock"/>
+    <string key="card back style" value="card back style"/>
+    <string key="card front style" value="card front style"/>
+    <string key="card" value="card"/>
+    <string key="daily challenge" value="daily challenge"/>
+    <string key="Monday" value="Monday"/>
+    <string key="Tuesday" value="Tuesday"/>
+    <string key="Wednesday" value="Wednesday"/>
+    <string key="Thursday" value="Thursday"/>
+    <string key="Friday" value="Friday"/>
+    <string key="Saturday" value="Saturday"/>
+    <string key="Sunday" value="Sunday"/>
+    <string key="January" value="January"/>
+    <string key="February" value="February"/>
+    <string key="March" value="March"/>
+    <string key="April" value="April"/>
+    <string key="May" value="May"/>
+    <string key="June" value="June"/>
+    <string key="July" value="July"/>
+    <string key="August" value="August"/>
+    <string key="September" value="September"/>
+    <string key="October" value="October"/>
+    <string key="November" value="November"/>
+    <string key="December" value="December"/>
+    <string key="Mon." value="Mon."/>
+    <string key="Tues." value="Tues."/>
+    <string key="Wed." value="Wed."/>
+    <string key="Thur." value="Thur."/>
+    <string key="Fri." value="Fri."/>
+    <string key="Sat." value="Sat."/>
+    <string key="Sun." value="Sun."/>
+    <string key="previous" value="previous"/>
+    <string key="next" value="next"/>
+    <string key="this month" value="this month"/>
+    <string key="all time" value="total"/>
+    <string key="unsolved" value="unsolved"/>
+    <string key="solved" value="solved"/>
+    <string key="Receive Notification" value="Receive Notification"/>
+    <string key="daily information" value="daily information"/>
+    <string key="Daily deal" value="Daily deal"/>
+    <string key="Earn crown" value="Earn crown"/>
+    <string key="The best score Earn platinum crown" value="The best score Earn platinum crown"/>
+    <string key="Daily login earn trophy" value="Daily login earn trophy"/>
+    <string key="NEW GAME" value="NEW GAME"/>
+    <string key="REPLAY" value="REPLAY"/>
+    <string key="STATISTICS" value="STATISTICS"/>
+    <string key="SCORES" value="SCORES"/>
+    <string key="7 DAYS" value="7 DAYS"/>
+    <string key="ALL STATISTICS" value="ALL STATISTICS"/>
+    <string key="Games Played :" value="Games Played :"/>
+    <string key="Games Won :" value="Games Won :"/>
+    <string key="Winning Streak:" value="Winning Streak:"/>
+    <string key="Win % :" value="Win rate :"/>
+    <string key="Best Moves :" value="Best Moves :"/>
+    <string key="Best Time :" value="Best Time :"/>
+    <string key="Best Score :" value="Best Score :"/>
+    <string key="Cumulative Score :" value="Cumulative Score :"/>
+    <string key="DRAW 1 MODEL" value="DRAW 1 MODEL"/>
+    <string key="DRAW 3 MODEL" value="DRAW 3 MODEL"/>
+    <string key="RESET" value="RESET"/>
+    <string key="7 DAYS RECORD" value="7 DAYS RECORD"/>
+    <string key="HISTORY" value="HISTORY"/>
+    <string key="Date" value="Date"/>
+    <string key="7 days Solitaire you will get crown.Do your grades improve every day?" value="7 days Solitaire you will get crown.
+Do your grades improve every day?"/>
+    <string key="Thanks for your rating." value="Thanks for your rating."/>
+    <string key="Congratulation! Check new card back in option" value="Congratulation! You have unlock new card back. Please check out Option -&gt; Back Style"/>
+    <string key="Congratulation! Check new Backdrop in option" value="Congratulation! You have unlock new Backdrop. Please check out Option -&gt; Backdrop"/>
+    <string key="You are running an unfinished game." value="You are running an unfinished game."/>
+    <string key="New Daily Challenge is ready." value="New Daily Challenge is ready."/>
+    <string key="Enjoying Solitaire?" value="Enjoying Solitaire?"/>
+    <string key="Please let us know what you think. You will unlock backdrop style as a gift." value="Please let us know what you think. 
+You will unlock NEW Backdrop."/>
+    <string key="Please let us know what you think. You will unlock card back style as a gift." value="Please let us know what you think. 
+You will unlock NEW card back."/>
+    <string key="tap star to rate" value="tap five stars to rate"/>
+    <string key="Later" value="Later"/>
+    <string key="Rate" value="Rate"/>
+    <string key="GAME SCORE" value="GAME SCORE"/>
+    <string key="Today Best :" value="Today Best :"/>
+    <string key="Record :" value="Record :"/>
+    <string key="AUTO COMPLETE!" value="AUTO COMPLETE!"/>
+    <string key="OK" value="OK"/>
+    <string key="CANCEL" value="CANCEL"/>
+    <string key="Hello." value="Hello."/>
+    <string key="Daily Medal" value="Daily Medal"/>
+    <string key="Got silver Medal" value="Got silver Medal"/>
+    <string key="11 until gold Medal" value="11 until gold Medal"/>
+    <string key="25 until platinum gold Medal" value="25 until platinum gold Medal"/>
+    <string key="Play Times" value="Play Times"/>
+    <string key="Achievement" value="Achievement"/>
+    <string key="[000000]Every day a new special deal unlocks for you to play.[-]" value="[504141]Daily deal[-]"/>
+    <string key="[000000]Beating any deal on the challenge will earn you a [ffaa00]crown[-] for that day.[-]" value="[504141]Beat daily deal. earn[ffaa00] Smile[-][-]"/>
+    <string key="[000000]But only one [ffaa00]platinum crown[-] will be left for the best day.[-]" value="[504141]the best score earn [ffaa00]laugh[-] every month[-]"/>
+    <string key="[000000]The more days of the month you play and win.the better your [ffaa00]trophy[-] will be.[-]" value="[504141]complete more daily deal. get better [ffaa00] trophy[-][-]"/>
+    <string key="Personal" value="Personal"/>
+    <string key="[504141]Do you want to play [-][348e39]Daily Challenge[-][504141]?[-]" value="[504141]Do you want to play Daily Challenge?[-]"/>
+    <string key="EASY" value="EASY"/>
+    <string key="NORMAL" value="NORMAL"/>
+    <string key="HARD" value="HARD"/>
+    <string key="Every day of the first game is easy.
+This is a chance to get high score." value="Every day of the first game is easy.
+This is a chance to get high score."/>
+    <string key="Are you sure you want to reset statistics?" value="Are you sure you want to reset statistics?"/>
+    <string key="draw 1" value="draw 1"/>
+    <string key="solitaire" value="solitaire"/>
+    <string key="Invite Title" value="Invite Friends to Solitaire"/>
+    <string key="Invite Message" value="You have to try this great game…"/>
+    <string key="Invite Friends" value="Invite Friends"/>
+    <string key="Invite Friends to unlock new card back style?" value="Invite 4 Friends to unlock new card back style?"/>
+    <string key="Invite Friends to unlock new Backdrop style?" value="Invite 4 Friends to unlock new Backdrop style?"/>
+    <string key="Invite Button" value="Invite"/>
+    <string key="LeftHand" value="Left Hand"/>
+    <string key="Orientation" value="Orientation"/>
+    <string key="Portrait" value="Portrait"/>
+    <string key="Landscape" value="Landscape"/>
+    <string key="New Windows 10 theme.Check it out!!" value="New Windows 10 theme.Check it out!!"/>
+    <string key="Free and no ads. Enjoy it please!!" value="Free and no ads. Enjoy it please!!"/>
+    <string key="Landscape setting has come.have a try!!" value="Landscape setting has come.have a try!!"/>
+    <string key="Warning! someone challenge you!!" value="Warning! someone challenge you!!"/>
+    <string key="You friend sent a Windows 10 theme to you." value="You friend sent a Windows 10 theme to you."/>
+    <string key="You friend just broke your record.come to challenge!" value="You friend just broke your record.come to challenge!"/>
+    <string key="NEW BACKDROP" value="NEW BACKDROP"/>
+    <string key="change to new backdrop?" value="change to new backdrop?"/>
+    <string key="NetworkFailInfo" value="A network connection is required for this function."/>
+</Lang>

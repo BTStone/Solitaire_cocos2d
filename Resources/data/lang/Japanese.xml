@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Lang>
+    <string key="KEY" value="Japanese"/>
+    <string key="language" value="日本語"/>
+    <string key="selectLanguage" value="言語"/>
+    <string key="ContactUs" value="お問い合わせ"/>
+    <string key="score" value="スコア"/>
+    <string key="time" value="時間"/>
+    <string key="moves" value="ムーブ"/>
+    <string key="options" value="オプション"/>
+    <string key="daily" value="毎日"/>
+    <string key="play" value="プレイ"/>
+    <string key="hint" value="ヒント"/>
+    <string key="undo" value="アンドゥ"/>
+    <string key="manual" value="手動"/>
+    <string key="auto" value="自動"/>
+    <string key="sound" value="サウンド"/>
+    <string key="on" value="開"/>
+    <string key="off" value="閉"/>
+    <string key="draw 3" value="3カード"/>
+    <string key="backdrop" value="デスクトップの背景"/>
+    <string key="front style" value="カードの表面"/>
+    <string key="back style" value="カードの裏"/>
+    <string key="done" value="完了"/>
+    <string key="in use" value="現用"/>
+    <string key="lock" value="ロック"/>
+    <string key="card back style" value="カードの裏"/>
+    <string key="card front style" value="カードの表面"/>
+    <string key="card" value="カード"/>
+    <string key="daily challenge" value="デイリーチャレンジ"/>
+    <string key="Monday" value="月"/>
+    <string key="Tuesday" value="火"/>
+    <string key="Wednesday" value="水"/>
+    <string key="Thursday" value="木"/>
+    <string key="Friday" value="金"/>
+    <string key="Saturday" value="土"/>
+    <string key="Sunday" value="日"/>
+    <string key="January" value="一月"/>
+    <string key="February" value="二月"/>
+    <string key="March" value="三月"/>
+    <string key="April" value="四月"/>
+    <string key="May" value="五月"/>
+    <string key="June" value="六月"/>
+    <string key="July" value="七月"/>
+    <string key="August" value="八月"/>
+    <string key="September" value="九月"/>
+    <string key="October" value="十月"/>
+    <string key="November" value="十一月"/>
+    <string key="December" value="十二月"/>
+    <string key="Mon." value="月"/>
+    <string key="Tues." value="火"/>
+    <string key="Wed." value="水"/>
+    <string key="Thur." value="木"/>
+    <string key="Fri." value="金"/>
+    <string key="Sat." value="土"/>
+    <string key="Sun." value="日"/>
+    <string key="previous" value="前のページ "/>
+    <string key="next" value="次のページ "/>
+    <string key="this month" value="本月"/>
+    <string key="all time" value="合計"/>
+    <string key="unsolved" value="未完成"/>
+    <string key="solved" value="完成した"/>
+    <string key="Receive Notification" value="プッシュ受け付けられ"/>
+    <string key="daily information" value="デイリーチャレンジカップ"/>
+    <string key="Daily deal" value="デイリー任務"/>
+    <string key="Earn crown" value="王冠獲得"/>
+    <string key="The best score Earn platinum crown" value="ベストスコアで白金王冠獲得"/>
+    <string key="Daily login earn trophy" value="毎日ログインでカップ獲得"/>
+    <string key="NEW GAME" value="新しいゲーム"/>
+    <string key="REPLAY" value="リプレイ"/>
+    <string key="STATISTICS" value="統計"/>
+    <string key="SCORES" value="スコア"/>
+    <string key="7 DAYS" value="7日"/>
+    <string key="ALL STATISTICS" value="全ての統計"/>
+    <string key="Games Played :" value="ゲーム数:"/>
+    <string key="Games Won :" value="勝利回数 :"/>
+    <string key="Winning Streak:" value="連勝:"/>
+    <string key="Win % :" value="勝率 :"/>
+    <string key="Best Moves :" value="ベストムーブ :"/>
+    <string key="Best Time :" value="ベスト時間 :"/>
+    <string key="Best Score :" value="ベストスコア :"/>
+    <string key="Cumulative Score :" value="累計スコア :"/>
+    <string key="DRAW 1 MODEL" value="1 カードモード"/>
+    <string key="DRAW 3 MODEL" value="3 カードモード"/>
+    <string key="RESET" value="リセット"/>
+    <string key="7 DAYS RECORD" value="7日の記録"/>
+    <string key="HISTORY" value="履歴"/>
+    <string key="Date" value="日付"/>
+    <string key="7 days Solitaire you will get crown.Do your grades improve every day?" value="7日間連続挑戦で王冠ゲット！顽张りましょう！"/>
+    <string key="Thanks for your rating." value="ご意見いただきまして、どうもありがとうございます。"/>
+    <string key="Congratulation! Check new card back in option" value="おめでとうござい! 新しいカードの裏ロック解除した. オプションにカードの裏などをご確認ください。"/>
+    <string key="Congratulation! Check new Backdrop in option" value="おめでとうござい! 新しいデスクトップの背景ロック解除した. オプションにデスクトップの背景などをご確認ください。"/>
+    <string key="You are running an unfinished game." value="目前のゲームをまだ運転して！"/>
+    <string key="New Daily Challenge is ready." value="新しいデイリーチャレンジカップは準備できました。"/>
+    <string key="Enjoying Solitaire?" value="楽しんでいただきましたか？"/>
+    <string key="Please let us know what you think. You will unlock backdrop style as a gift." value="だったらこのアプリを評価してください！多分、一分もかかりません。 新しい背景ック解除した。お客様のサポートにいつもありがとうございます！"/>
+    <string key="Please let us know what you think. You will unlock card back style as a gift." value="だったらこのアプリを評価してください！多分、一分もかかりません。 新しいカードの裏ロック解除した。お客様のサポートにいつもありがとうございます！"/>
+    <string key="tap star to rate" value="だったらこのアプリを評価してください！"/>
+    <string key="Later" value="後で"/>
+    <string key="Rate" value="レビュー"/>
+    <string key="GAME SCORE" value="ゲーム スコア"/>
+    <string key="Today Best :" value="今日 ベスト :"/>
+    <string key="Record :" value="記録 :"/>
+    <string key="AUTO COMPLETE!" value="自動完成!"/>
+    <string key="OK" value="はい"/>
+    <string key="CANCEL" value="キャンセル"/>
+    <string key="Hello." value="こんにちは."/>
+    <string key="Daily Medal" value="デイリーチャレンジカップ"/>
+    <string key="Got silver Medal" value="銀褒章 ゲット！"/>
+    <string key="11 until gold Medal" value="金褒章 ゲット！"/>
+    <string key="25 until platinum gold Medal" value="白金褒章 ゲット！"/>
+    <string key="Play Times" value="プレイ 時間"/>
+    <string key="Achievement" value="実績"/>
+    <string key="[000000]Every day a new special deal unlocks for you to play.[-]" value="[504141]デイリーチャレンジ[-]"/>
+    <string key="[000000]Beating any deal on the challenge will earn you a [ffaa00]crown[-] for that day.[-]" value="[504141]完成 デイリーチャレンジ. [ffaa00]笑顔[-]を獲得[-] "/>
+    <string key="[000000]But only one [ffaa00]platinum crown[-] will be left for the best day.[-]" value="[504141]毎月 ベストスコア [ffaa00] 大きな笑顔[-]を獲得[-]"/>
+    <string key="[000000]The more days of the month you play and win.the better your [ffaa00]trophy[-] will be.[-]" value="[504141]もっとデイリーチャレンジ完成. もっと良い[ffaa00] 褒章 ゲット！[-][-]"/>
+    <string key="Personal" value="個人"/>
+    <string key="[504141]Do you want to play [-][348e39]Daily Challenge[-][504141]?[-]" value="[504141]あなたはデイリーチャレンジ完成が欲しいです?[-]"/>
+    <string key="EASY" value="簡単"/>
+    <string key="NORMAL" value="一般"/>
+    <string key="HARD" value="困難"/>
+    <string key="Every day of the first game is easy.
+This is a chance to get high score." value="毎日の最初ゲームは簡単な。
+ベストスコアゲットはいい機会"/>
+    <string key="Are you sure you want to reset statistics?" value="本当に統計データをリセットしてですか?"/>
+    <string key="draw 1" value="1カード"/>
+    <string key="solitaire" value="ソリティア"/>
+    <string key="Invite Title" value="ソリティアために友達を招待"/>
+    <string key="Invite Message" value="あなたは、この素晴らしいゲームを試してみて..."/>
+    <string key="Invite Friends" value="友達を招待する"/>
+    <string key="Invite Friends to unlock new card back style?" value="新しいカードのバックスタイルの錠を開けるために友達 4 を招待するのですか？"/>
+    <string key="Invite Friends to unlock new Backdrop style?" value="新しい背景の錠を開けるために友達 4 を招待するのですか？"/>
+    <string key="Invite Button" value="招待"/>
+    <string key="LeftHand" value="左手"/>
+    <string key="Orientation" value="方向"/>
+    <string key="Portrait" value="垂直"/>
+    <string key="Landscape" value="レベル"/>
+    <string key="New Windows 10 theme.Check it out!!" value="新しい「Windowsの10テーマは、それをチェックアウト！"/>
+    <string key="Free and no ads. Enjoy it please!!" value="無料広告はない、遊びに来てください！"/>
+    <string key="Landscape setting has come.have a try!!" value="回転を横で固定来た、遊びに来てください！"/>
+    <string key="Warning! someone challenge you!!" value="警告！あなたはそれに挑戦する誰ですか？"/>
+    <string key="You friend sent a Windows 10 theme to you." value="あなたの友人からWindows10のテーマを贈られた！"/>
+    <string key="You friend just broke your record.come to challenge!" value="あなたの友達の記録を破りました、挑戦して来て！"/>
+    <string key="NEW BACKDROP" value="新しい背景"/>
+    <string key="change to new backdrop?" value="新しい背景に変更できますか？"/>
+    <string key="NetworkFailInfo" value="この機能を使うにはネットワーク連結が必要です。"/>
+</Lang>

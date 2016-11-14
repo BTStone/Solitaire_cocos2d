@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Lang>
+    <string key="KEY" value="German"/>
+    <string key="language" value="Deutsch"/>
+    <string key="selectLanguage" value="Sprache"/>
+    <string key="ContactUs" value="Kontaktieren Sie uns"/>
+    <string key="score" value="punkte"/>
+    <string key="time" value="zeit"/>
+    <string key="moves" value="züge"/>
+    <string key="options" value="Optionen"/>
+    <string key="daily" value="täglich"/>
+    <string key="play" value="spielen"/>
+    <string key="hint" value="tipp"/>
+    <string key="undo" value="rückg."/>
+    <string key="manual" value="manuell"/>
+    <string key="auto" value="auto"/>
+    <string key="sound" value="Klang"/>
+    <string key="on" value="an"/>
+    <string key="off" value="aus"/>
+    <string key="draw 3" value="3 Karten ziehen"/>
+    <string key="backdrop" value="Hintergrund"/>
+    <string key="front style" value="Kartenbilder"/>
+    <string key="back style" value="Kartenrückseite"/>
+    <string key="done" value="erledigt"/>
+    <string key="in use" value="im Einsatz"/>
+    <string key="lock" value="sperren"/>
+    <string key="card back style" value="Karte zurück Stil"/>
+    <string key="card front style" value="Karte Vorderseite Stil"/>
+    <string key="card" value="Karte"/>
+    <string key="daily challenge" value="Tägliche Aufgabe"/>
+    <string key="Monday" value="Montag"/>
+    <string key="Tuesday" value="Dienstag"/>
+    <string key="Wednesday" value="Mittwoch"/>
+    <string key="Thursday" value="Donnerstag"/>
+    <string key="Friday" value="Freitag"/>
+    <string key="Saturday" value="Samstag"/>
+    <string key="Sunday" value="Sonntag"/>
+    <string key="January" value="Januar  "/>
+    <string key="February" value="Februar"/>
+    <string key="March" value="März "/>
+    <string key="April" value="April "/>
+    <string key="May" value="mai"/>
+    <string key="June" value="Juni"/>
+    <string key="July" value="Juli"/>
+    <string key="August" value="August "/>
+    <string key="September" value="September"/>
+    <string key="October" value="Oktober"/>
+    <string key="November" value="November "/>
+    <string key="December" value="Dezember"/>
+    <string key="Mon." value="Mo."/>
+    <string key="Tues." value="Di."/>
+    <string key="Wed." value="Mi."/>
+    <string key="Thur." value="Do."/>
+    <string key="Fri." value="Fr."/>
+    <string key="Sat." value="Sa."/>
+    <string key="Sun." value="So."/>
+    <string key="previous" value="früheren"/>
+    <string key="next" value="nächste"/>
+    <string key="this month" value="Monat"/>
+    <string key="all time" value="gesamt"/>
+    <string key="unsolved" value="ungelöst"/>
+    <string key="solved" value="gelöst"/>
+    <string key="Receive Notification" value="Empfangsbestätigung"/>
+    <string key="daily information" value="tägliche Informationen"/>
+    <string key="Daily deal" value="Angebot des Tages"/>
+    <string key="Earn crown" value="Krone verdienen"/>
+    <string key="The best score Earn platinum crown" value="Das beste Ergebnis verdienen Platin Krone"/>
+    <string key="Daily login earn trophy" value="Täglich Login verdienen Medaille"/>
+    <string key="NEW GAME" value="NEUES SPIEL"/>
+    <string key="REPLAY" value="REPLAY"/>
+    <string key="STATISTICS" value="STATISTIKEN"/>
+    <string key="SCORES" value="PARTITUREN"/>
+    <string key="7 DAYS" value="7 TAGE"/>
+    <string key="ALL STATISTICS" value="ALLE STATISTIKEN"/>
+    <string key="Games Played :" value="Gespielte Spiele:"/>
+    <string key="Games Won :" value="Spiele gewonnen:"/>
+    <string key="Winning Streak:" value="Siegesserie:"/>
+    <string key="Win % :" value="Satz gewinnen:"/>
+    <string key="Best Moves :" value="Wenigste spielzüge:"/>
+    <string key="Best Time :" value="Bestzeit:"/>
+    <string key="Best Score :" value="Bestes Ergebnis:"/>
+    <string key="Cumulative Score :" value="Kumulierte Ergebnis:"/>
+    <string key="DRAW 1 MODEL" value="1 Karten ziehen"/>
+    <string key="DRAW 3 MODEL" value="3 Karten ziehen"/>
+    <string key="RESET" value="Zurücksetzen"/>
+    <string key="7 DAYS RECORD" value="7 TAGE-DATENSATZ"/>
+    <string key="HISTORY" value="GESCHICHTE"/>
+    <string key="Date" value="Datum"/>
+    <string key="7 days Solitaire you will get crown.Do your grades improve every day?" value="7 Tage Solitaire erhalten Sie Krone.
+Verbessere Ihre Qualitäten jeden Tag?"/>
+    <string key="Thanks for your rating." value="Vielen Dank für deine Bewertung."/>
+    <string key="Congratulation! Check new card back in option" value="Glückwunsch!wählen sie neue karte zurück - option"/>
+    <string key="Congratulation! Check new Backdrop in option" value="Glückwunsch! Sie haben neue Hintergrund entsperren. Bitte beachten Sie auch Optionen -&gt; Hintergrund"/>
+    <string key="You are running an unfinished game." value="Sie sind ein unfertiges Spiel läuft."/>
+    <string key="New Daily Challenge is ready." value="Neue tägliche Herausforderung ist bereit."/>
+    <string key="Enjoying Solitaire?" value="Genießen Sie Solitaire?"/>
+    <string key="Please let us know what you think. You will unlock backdrop style as a gift." value="Bitte lassen Sie uns wissen Sie. was Sie denken.
+Sie werden Hintergrund Stil als Geschenk zu entsperren."/>
+    <string key="Please let us know what you think. You will unlock card back style as a gift." value="Bitte lassen Sie uns wissen Sie. was Sie denken.
+Sie werden Hintergrund Stil als Geschenk zu entsperren."/>
+    <string key="tap star to rate" value="tippen Stern bewerten"/>
+    <string key="Later" value="Später"/>
+    <string key="Rate" value="BEWERTUNGEN"/>
+    <string key="GAME SCORE" value="PUNKTZAHL"/>
+    <string key="Today Best :" value="Heute am besten:"/>
+    <string key="Record :" value="Rekord:"/>
+    <string key="AUTO COMPLETE!" value="Automatisch erledigt!"/>
+    <string key="OK" value="OK"/>
+    <string key="CANCEL" value="STORNIEREN"/>
+    <string key="Hello." value="Hallo."/>
+    <string key="Daily Medal" value="Tägliche Medal"/>
+    <string key="Got silver Medal" value="Bekam Silberpokal"/>
+    <string key="11 until gold Medal" value="11 bis zum gold-Pokal"/>
+    <string key="25 until platinum gold Medal" value="25 until platinum gold Medal"/>
+    <string key="Play Times" value="Spielen Sie mal"/>
+    <string key="Achievement" value="Erzielen"/>
+    <string key="[000000]Every day a new special deal unlocks for you to play.[-]" value="[504141]Angebot des Tages[-]"/>
+    <string key="[000000]Beating any deal on the challenge will earn you a [ffaa00]crown[-] for that day.[-]" value="[504141]Beat täglichen Geschäft. Lächeln verdienen[-]"/>
+    <string key="[000000]But only one [ffaa00]platinum crown[-] will be left for the best day.[-]" value="[504141]die beste Kerbe verdienen [ffaa00]Lachen[-] Sie jeden Monat[-]"/>
+    <string key="[000000]The more days of the month you play and win.the better your [ffaa00]trophy[-] will be.[-]" value="[504141]komplette mehr täglich beschäftigen. haben bessere Medaille[-]"/>
+    <string key="Personal" value="Persönlichen"/>
+    <string key="[504141]Do you want to play [-][348e39]Daily Challenge[-][504141]?[-]" value="[504141]Wollen Sie tägliche Herausforderung zu spielen?[-]"/>
+    <string key="EASY" value="EINFACH"/>
+    <string key="NORMAL" value="NORMAL"/>
+    <string key="HARD" value="HART"/>
+    <string key="Every day of the first game is easy.
+This is a chance to get high score." value="Jeden Tag das erste Spiel ist einfach.
+Dies ist eine Chance. hohe Punktzahl zu bekommen."/>
+    <string key="Are you sure you want to reset statistics?" value="Sind Sie sicher. dass Sie Statistiken zurücksetzen?"/>
+    <string key="draw 1" value="draw 1"/>
+    <string key="solitaire" value="Solitär"/>
+    <string key="Invite Title" value="Freunde einladen zu Solitaire"/>
+    <string key="Invite Message" value="You have to try this great game…"/>
+    <string key="Invite Friends" value="freunde einladen"/>
+    <string key="Invite Friends to unlock new card back style?" value="laden 4 sie freunde auf neue karte zurück?"/>
+    <string key="Invite Friends to unlock new Backdrop style?" value="laden 4 sie freunde auf n neue Kulisse?"/>
+    <string key="Invite Button" value="Einladen"/>
+    <string key="LeftHand" value="Die linke Hand"/>
+    <string key="Orientation" value="Ausrichtung"/>
+    <string key="Portrait" value="vertikale"/>
+    <string key="Landscape" value="Levels"/>
+    <string key="New Windows 10 theme.Check it out!!" value="Neue Windows 10 Thema Check it out !!"/>
+    <string key="Free and no ads. Enjoy it please!!" value="Kostenlos und werbefrei . Genießen Sie jetzt !!"/>
+    <string key="Landscape setting has come.have a try!!" value="Landschaft ist gekommen. versuchen Sie spielen !!"/>
+    <string key="Warning! someone challenge you!!" value="Warnung! jemand Herausforderung für Sie !!"/>
+    <string key="You friend sent a Windows 10 theme to you." value="Sie Freund Windows 10 Thema an Sie senden"/>
+    <string key="You friend just broke your record.come to challenge!" value="Sie Freund nur brechen Sie Ihre Aufzeichnung. kommen in Frage zu stellen!"/>
+    <string key="NEW BACKDROP" value="NEW KULISSE"/>
+    <string key="change to new backdrop?" value="ändern, um neue Kulisse ?"/>
+    <string key="NetworkFailInfo" value="Für diese Funktion ist eine Netzwerkverbindung erforderlich."/>
+</Lang>

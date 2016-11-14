@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Lang>
+    <string key="KEY" value="Korean"/>
+    <string key="language" value="한국어"/>
+    <string key="selectLanguage" value="언어"/>
+    <string key="ContactUs" value="문의"/>
+    <string key="score" value="점수"/>
+    <string key="time" value="시간"/>
+    <string key="moves" value="힌트"/>
+    <string key="options" value="설정"/>
+    <string key="daily" value="일일"/>
+    <string key="play" value="시작"/>
+    <string key="hint" value="힌트"/>
+    <string key="undo" value="되돌리기"/>
+    <string key="manual" value="조작"/>
+    <string key="auto" value="자동"/>
+    <string key="sound" value="소리"/>
+    <string key="on" value="열린"/>
+    <string key="off" value="가까운"/>
+    <string key="draw 3" value="카드 세장"/>
+    <string key="backdrop" value="카드 뒷면 바꾸기"/>
+    <string key="front style" value="카드 앞면 변경"/>
+    <string key="back style" value="카드 뒷면"/>
+    <string key="done" value="완료"/>
+    <string key="in use" value="용도"/>
+    <string key="lock" value="자물쇠"/>
+    <string key="card back style" value="카드 뒷면 바꾸기"/>
+    <string key="card front style" value="카드 앞면 변경"/>
+    <string key="card" value="포커"/>
+    <string key="daily challenge" value="일일 도전"/>
+    <string key="Monday" value=" 월요일"/>
+    <string key="Tuesday" value=" 월요일"/>
+    <string key="Wednesday" value="수요일"/>
+    <string key="Thursday" value="수요일"/>
+    <string key="Friday" value="금요일"/>
+    <string key="Saturday" value="토요일"/>
+    <string key="Sunday" value="일요일"/>
+    <string key="January" value="일월"/>
+    <string key="February" value="이월"/>
+    <string key="March" value="삼월"/>
+    <string key="April" value="사월"/>
+    <string key="May" value="오월"/>
+    <string key="June" value="유월"/>
+    <string key="July" value="칠월"/>
+    <string key="August" value="팔월"/>
+    <string key="September" value="구월"/>
+    <string key="October" value="시월"/>
+    <string key="November" value="십일월"/>
+    <string key="December" value="십이월"/>
+    <string key="Mon." value=" 월요일"/>
+    <string key="Tues." value=" 월요일"/>
+    <string key="Wed." value="수요일"/>
+    <string key="Thur." value="수요일"/>
+    <string key="Fri." value="금요일"/>
+    <string key="Sat." value="토요일"/>
+    <string key="Sun." value="일요일"/>
+    <string key="previous" value="이전"/>
+    <string key="next" value="플립"/>
+    <string key="this month" value="이번 달"/>
+    <string key="all time" value="합계"/>
+    <string key="unsolved" value="클리어함"/>
+    <string key="solved" value="클리어 안 함"/>
+    <string key="Receive Notification" value="알림 수신"/>
+    <string key="daily information" value="일일 도전 정보"/>
+    <string key="Daily deal" value="일일 거래"/>
+    <string key="Earn crown" value="왕관을 적립"/>
+    <string key="The best score Earn platinum crown" value="플래티넘 크라운 달성 최상의 결과를 얻으려면"/>
+    <string key="Daily login earn trophy" value="매일 방문 메달를 가져옵니다"/>
+    <string key="NEW GAME" value="새로운 게임"/>
+    <string key="REPLAY" value="리플레이"/>
+    <string key="STATISTICS" value="통계"/>
+    <string key="SCORES" value="점수"/>
+    <string key="7 DAYS" value="칠일"/>
+    <string key="ALL STATISTICS" value="모든 통계"/>
+    <string key="Games Played :" value="경기 수 :"/>
+    <string key="Games Won :" value="승리 번호 :"/>
+    <string key="Winning Streak:" value="킬 :"/>
+    <string key="Win % :" value="승 속도 :"/>
+    <string key="Best Moves :" value="최고의 모바일 :"/>
+    <string key="Best Time :" value="가장 좋은 시간 :"/>
+    <string key="Best Score :" value="최고 점수 :"/>
+    <string key="Cumulative Score :" value="누적 점수 :"/>
+    <string key="DRAW 1 MODEL" value="카드 한장"/>
+    <string key="DRAW 3 MODEL" value="카드 세장"/>
+    <string key="RESET" value="리셋"/>
+    <string key="7 DAYS RECORD" value="기록 칠일"/>
+    <string key="HISTORY" value="역사"/>
+    <string key="Date" value="날짜"/>
+    <string key="7 days Solitaire you will get crown.Do your grades improve every day?" value="연속 7 일 당신이 왕관을 받게됩니다 카드 놀이."/>
+    <string key="Thanks for your rating." value="평가 해 주셔서 감사합니다."/>
+    <string key="Congratulation! Check new card back in option" value="축하합니다! 에보기 [설정 —&gt; 카드 뒷면 바꾸기] - 당신은 새로운 카드 뒷면. 할 수 있습니다 잠금을 해제"/>
+    <string key="Congratulation! Check new Backdrop in option" value="축하! 당신은 새로운 배경을 잠금 해제했습니다. 확인하시기 바랍니다 설정 -&gt; 배경"/>
+    <string key="You are running an unfinished game." value="당신은 미완성 게임을 실행하고 있습니다."/>
+    <string key="New Daily Challenge is ready." value="새 일일 도전은 준비가되어 있습니다."/>
+    <string key="Enjoying Solitaire?" value="놀이 재미?"/>
+    <string key="Please let us know what you think. You will unlock backdrop style as a gift." value="어떻게 생각하는지 알려주세요.새 배경 얻을 것이다."/>
+    <string key="Please let us know what you think. You will unlock card back style as a gift." value="어떻게 생각하는지 알려주세요.새 배경 얻을 것이다."/>
+    <string key="tap star to rate" value="우리에게 다섯 별을주세요"/>
+    <string key="Later" value="후"/>
+    <string key="Rate" value="리뷰"/>
+    <string key="GAME SCORE" value="게임 점수"/>
+    <string key="Today Best :" value="오늘의 베스트 :"/>
+    <string key="Record :" value="기록 :"/>
+    <string key="AUTO COMPLETE!" value="자동 완성!"/>
+    <string key="OK" value="OK"/>
+    <string key="CANCEL" value="취소"/>
+    <string key="Hello." value="안녕하세요."/>
+    <string key="Daily Medal" value="일일 도전 메달"/>
+    <string key="Got silver Medal" value="실버 메달를 얻기"/>
+    <string key="11 until gold Medal" value="골드 메달를 가져옵니다"/>
+    <string key="25 until platinum gold Medal" value="플래티넘 메달를 얻을"/>
+    <string key="Play Times" value="게임 시간"/>
+    <string key="Achievement" value="성취"/>
+    <string key="[000000]Every day a new special deal unlocks for you to play.[-]" value="[504141]일일 거래[-]"/>
+    <string key="[000000]Beating any deal on the challenge will earn you a [ffaa00]crown[-] for that day.[-]" value="[504141]미소 얻은 매일 [ffaa00]과제를 완료[-][-]"/>
+    <string key="[000000]But only one [ffaa00]platinum crown[-] will be left for the best day.[-]" value="[504141]최상의 결과는 당일에게 매달 [ffaa00]웃음[-] 얻을 수있다[-]"/>
+    <string key="[000000]The more days of the month you play and win.the better your [ffaa00]trophy[-] will be.[-]" value="[504141]모든 문제는 [ffaa00]메달를[-] 얻기 위해 일개월 완료[-]"/>
+    <string key="Personal" value="개인"/>
+    <string key="[504141]Do you want to play [-][348e39]Daily Challenge[-][504141]?[-]" value="[504141]당신은 매일 도전을 원하십니까?[-]"/>
+    <string key="EASY" value="단순한"/>
+    <string key="NORMAL" value="보통의"/>
+    <string key="HARD" value="어려운"/>
+    <string key="Every day of the first game is easy.
+This is a chance to get high score." value="가장 쉬운 첫 번째 일일 도전. 당신은 오 높은 점수를 얻을 수 있습니다."/>
+    <string key="Are you sure you want to reset statistics?" value="당신은 당신이 재설정 하시겠습니까?"/>
+    <string key="draw 1" value="카드 한장"/>
+    <string key="solitaire" value="카드 놀이"/>
+    <string key="Invite Title" value="카드 놀이 할 친구 초대"/>
+    <string key="Invite Message" value="당신은이 위대한 게임을 시도해야 ..."/>
+    <string key="Invite Friends" value="친구"/>
+    <string key="Invite Friends to unlock new card back style?" value="새로운 장을 열다 좀 4 친구 다시 스타일?"/>
+    <string key="Invite Friends to unlock new Backdrop style?" value="새로운 배경 열다 좀 4 친구 다시 스타일?"/>
+    <string key="Invite Button" value="초대"/>
+    <string key="LeftHand" value="왼쪽 손"/>
+    <string key="Orientation" value="방향"/>
+    <string key="Portrait" value="세로"/>
+    <string key="Landscape" value="가로"/>
+    <string key="New Windows 10 theme.Check it out!!" value="새로운 Windows 10 테마를 확인하세요!"/>
+    <string key="Free and no ads. Enjoy it please!!" value="무료 더 광고는 지금 즐길 수 없다!"/>
+    <string key="Landscape setting has come.have a try!!" value="풍경이왔다. 재생 해보십시오!"/>
+    <string key="Warning! someone challenge you!!" value="경고! 당신에게 누군가가 도전!"/>
+    <string key="You friend sent a Windows 10 theme to you." value="당신은 친구가 당신에게 Windows 10 테마를보내"/>
+    <string key="You friend just broke your record.come to challenge!" value="당신은 친구가 당신의 기록을 깰. 도전 이리와!"/>
+    <string key="NEW BACKDROP" value="새로운 배경"/>
+    <string key="change to new backdrop?" value="새로운 배경 으로 변경 ?"/>
+    <string key="NetworkFailInfo" value="이 기능을 사용하시기 위해선 네트워크 연결이 필요합니다."/>
+</Lang>

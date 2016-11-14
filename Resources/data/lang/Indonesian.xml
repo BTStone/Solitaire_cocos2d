@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Lang>
+    <string key="KEY" value="Indonesian"/>
+    <string key="language" value="Indonesia"/>
+    <string key="selectLanguage" value="bahasa"/>
+    <string key="ContactUs" value="Hubungi Kami"/>
+    <string key="score" value="skor"/>
+    <string key="time" value="waktu"/>
+    <string key="moves" value="langkah"/>
+    <string key="options" value="PILIHAN"/>
+    <string key="daily" value="HARIAN"/>
+    <string key="play" value="MULAI"/>
+    <string key="hint" value="PETUNJUK"/>
+    <string key="undo" value="CABUT"/>
+    <string key="manual" value="manual"/>
+    <string key="auto" value="otomatis"/>
+    <string key="sound" value="suara"/>
+    <string key="on" value="Buka"/>
+    <string key="off" value="Tutup"/>
+    <string key="draw 3" value="balikkan 3"/>
+    <string key="backdrop" value="later belakangan"/>
+    <string key="front style" value="wajah kartu"/>
+    <string key="back style" value="lakang kartu"/>
+    <string key="done" value="selesai"/>
+    <string key="in use" value="digunakan"/>
+    <string key="lock" value="terkunci"/>
+    <string key="card back style" value="lakang kartu"/>
+    <string key="card front style" value="wajah kartu"/>
+    <string key="card" value="kartu"/>
+    <string key="daily challenge" value="tantangan sehari-hari"/>
+    <string key="Monday" value="Senin"/>
+    <string key="Tuesday" value="Selasa"/>
+    <string key="Wednesday" value="Rabu"/>
+    <string key="Thursday" value="Kamis"/>
+    <string key="Friday" value="Jumat"/>
+    <string key="Saturday" value="Sabtu"/>
+    <string key="Sunday" value="Minggu"/>
+    <string key="January" value="Januari"/>
+    <string key="February" value="Februari"/>
+    <string key="March" value="Maret"/>
+    <string key="April" value="April"/>
+    <string key="May" value="Mei"/>
+    <string key="June" value="Juni"/>
+    <string key="July" value="Juli"/>
+    <string key="August" value="Agustus"/>
+    <string key="September" value="September"/>
+    <string key="October" value="Oktober"/>
+    <string key="November" value="November"/>
+    <string key="December" value="Desember"/>
+    <string key="Mon." value="Mon."/>
+    <string key="Tues." value="Tues."/>
+    <string key="Wed." value="Wed."/>
+    <string key="Thur." value="Thur."/>
+    <string key="Fri." value="Fri."/>
+    <string key="Sat." value="Sat."/>
+    <string key="Sun." value="Sun."/>
+    <string key="previous" value="sebelumnya"/>
+    <string key="next" value="berikutnya"/>
+    <string key="this month" value="bulan ini"/>
+    <string key="all time" value="total"/>
+    <string key="unsolved" value="belum selesai"/>
+    <string key="solved" value="selesai"/>
+    <string key="Receive Notification" value="menerima Pemberitahuan"/>
+    <string key="daily information" value="tantangan harian descripsi"/>
+    <string key="Daily deal" value="Tugas sehari hari"/>
+    <string key="Earn crown" value="Dapatkan mahkota"/>
+    <string key="The best score Earn platinum crown" value="Skor terbaik Menerima mahkota platinum"/>
+    <string key="Daily login earn trophy" value="Login harian mendapat trofi"/>
+    <string key="NEW GAME" value="PERMAINAN BARU"/>
+    <string key="REPLAY" value="MENGULANG"/>
+    <string key="STATISTICS" value="STATISTIKA"/>
+    <string key="SCORES" value="SKOR"/>
+    <string key="7 DAYS" value="7 HARI"/>
+    <string key="ALL STATISTICS" value="SEMUA STATISTIKA"/>
+    <string key="Games Played :" value="Kali Bermain:"/>
+    <string key="Games Won :" value="Kali Menang:"/>
+    <string key="Winning Streak:" value="Kemenangan beruntun:"/>
+    <string key="Win % :" value="Rasio Menang:"/>
+    <string key="Best Moves :" value="Langkah paling sedikit:"/>
+    <string key="Best Time :" value="Waktu paling pendek :"/>
+    <string key="Best Score :" value="Skor tertinggi :"/>
+    <string key="Cumulative Score :" value="Skor kumulatif :"/>
+    <string key="DRAW 1 MODEL" value="MODE 1 KARTU"/>
+    <string key="DRAW 3 MODEL" value="MODE 3 KARTU"/>
+    <string key="RESET" value="RESET"/>
+    <string key="7 DAYS RECORD" value="7 HARI REKOR"/>
+    <string key="HISTORY" value="SEJARAH"/>
+    <string key="Date" value="Tanggal"/>
+    <string key="7 days Solitaire you will get crown.Do your grades improve every day?" value="Masuk Solitaire 7 hari terus bisa mendapat mahkota. Semangat!"/>
+    <string key="Thanks for your rating." value="Terima kasih atas penilaian Anda."/>
+    <string key="Congratulation! Check new card back in option" value="Selamat! Anda mendapat kartu belakang gaya baru. Periksa di PILIHAN -&gt; belakang kartu"/>
+    <string key="Congratulation! Check new Backdrop in option" value="Selamat! Anda memiliki membuka belakangan kemudian baru. Silakan periksa PILIHAN -&gt; kemudian belakangan"/>
+    <string key="You are running an unfinished game." value="Permainan ini belum selesai."/>
+    <string key="New Daily Challenge is ready." value="Harian Tantangan Baru bersiap."/>
+    <string key="Enjoying Solitaire?" value="Nikmati Solitaire?"/>
+    <string key="Please let us know what you think. You will unlock backdrop style as a gift." value="Evaluasi kartu.
+Anda bisa mendapatkan latar belakang."/>
+    <string key="Please let us know what you think. You will unlock card back style as a gift." value="Evaluasi kartu.
+Anda bisa mendapatkan latar belakang."/>
+    <string key="tap star to rate" value="Kasi bintang lima kepada Solitaire"/>
+    <string key="Later" value="Nanti"/>
+    <string key="Rate" value="ULASAN"/>
+    <string key="GAME SCORE" value="SKOR"/>
+    <string key="Today Best :" value="Terbaik di Hari ini:"/>
+    <string key="Record :" value="Rekor:"/>
+    <string key="AUTO COMPLETE!" value="SELESAI OTOMATIS!"/>
+    <string key="OK" value="BAIK"/>
+    <string key="CANCEL" value="MEMBATALKAN"/>
+    <string key="Hello." value="Halo."/>
+    <string key="Daily Medal" value="Medali Harian"/>
+    <string key="Got silver Medal" value="Mendapat medali perak"/>
+    <string key="11 until gold Medal" value="Mendapat medali emas"/>
+    <string key="25 until platinum gold Medal" value="Mendapat medali platinum"/>
+    <string key="Play Times" value="Waktu Bermain"/>
+    <string key="Achievement" value="Prestasi"/>
+    <string key="[000000]Every day a new special deal unlocks for you to play.[-]" value="[504141]Nikmati tugas harian setiap hari![-]"/>
+    <string key="[000000]Beating any deal on the challenge will earn you a [ffaa00]crown[-] for that day.[-]" value="[504141]Selesai tugas sehari-hari. mendapatkan[ffaa00] Tersenyum[-][-]"/>
+    <string key="[000000]But only one [ffaa00]platinum crown[-] will be left for the best day.[-]" value="[504141]skor terbaik dalam sebulan mendapatkan [ffaa00]Tertawa[-][-]"/>
+    <string key="[000000]The more days of the month you play and win.the better your [ffaa00]trophy[-] will be.[-]" value="[504141]Selesaikan lebih banyak tantangan harian. dapat [ffaa00] medali[-]lebih tinggi[-]"/>
+    <string key="Personal" value="Pribadi"/>
+    <string key="[504141]Do you want to play [-][348e39]Daily Challenge[-][504141]?[-]" value="[504141]Apakah Anda ingin bermain Harian Tantangan?[-]"/>
+    <string key="EASY" value="MUDAH"/>
+    <string key="NORMAL" value="NORMAL"/>
+    <string key="HARD" value="KERAS"/>
+    <string key="Every day of the first game is easy.
+This is a chance to get high score." value="Pertandingan pertama setiap hari lebih mudah.
+Ini adalah kesempatan untuk mendapatkan skor tinggi."/>
+    <string key="Are you sure you want to reset statistics?" value="Apakah Anda putus reset statistik?"/>
+    <string key="draw 1" value="balikkan 1"/>
+    <string key="solitaire" value="pertapa"/>
+    <string key="Invite Title" value="Ajak teman-teman untuk Solitaire"/>
+    <string key="Invite Message" value="Anda harus mencoba permainan besar ini ..."/>
+    <string key="Invite Friends" value="Mengundang teman-teman"/>
+    <string key="Invite Friends to unlock new card back style?" value="Ajak 4 teman-teman untuk membuka gaya kartu kembali baru?"/>
+    <string key="Invite Friends to unlock new Backdrop style?" value="Ajak 4 teman-teman untuk membuka gaya latar belakang baru?"/>
+    <string key="Invite Button" value="Meminta"/>
+    <string key="LeftHand" value="tangan kiri"/>
+    <string key="Orientation" value="Orientasi"/>
+    <string key="Portrait" value="vertikal"/>
+    <string key="Landscape" value="tingkat"/>
+    <string key="New Windows 10 theme.Check it out!!" value="New Windows 10 tema. Check it out !!"/>
+    <string key="Free and no ads. Enjoy it please!!" value="Gratis dan tidak ada iklan. Nikmati sekarang !!"/>
+    <string key="Landscape setting has come.have a try!!" value="Landscape telah datang. Coba bermain !!"/>
+    <string key="Warning! someone challenge you!!" value="Peringatan! seseorang tantangan untuk Anda !!"/>
+    <string key="You friend sent a Windows 10 theme to you." value="Anda teman mengirim Windows 10 tema untuk Anda"/>
+    <string key="You friend just broke your record.come to challenge!" value="Anda teman hanya memecahkan rekor Anda. datang untuk menantang!"/>
+    <string key="NEW BACKDROP" value="LATAR BELAKANG BARU"/>
+    <string key="change to new backdrop?" value="mengubah ke latar belakang baru ?"/>
+    <string key="NetworkFailInfo" value="Per usufruire di questa funzione è necessaria una connessione di rete."/>
+</Lang>

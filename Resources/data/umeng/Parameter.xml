@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Lang>
+    <string key="EventID" value="Parameter"/>
+    <string key="ClickTipButton" value="提示按钮"/>
+    <string key="ClickUndoButton" value="回退按钮"/>
+    <string key="ClickPlayButton" value="开始菜单按钮"/>
+    <string key="ClickWinBoardNewGameButton" value="WinBoard上的NEWGAME"/>
+    <string key="ClickPlayBoardNewGameButton" value="PlayBoard上的NEWGAME"/>
+    <string key="ClickReplayButton" value="重玩按钮"/>
+    <string key="ClickStatisticsButton" value="统计按钮"/>
+    <string key="ClickScoreButton" value="得分按钮"/>
+    <string key="WinNumNewGame" value="随机游戏的胜利次数"/>
+    <string key="ClickDailyChallengeButton" value="每日挑战按钮"/>
+    <string key="ClickDailyChallengeHelpButton" value="每日挑战说明按钮"/>
+    <string key="ClickDailyChallengePlayButton" value="每日挑战开始按钮"/>
+    <string key="ReceiveNotifyButtonOn" value="接收推送勾选框"/>
+    <string key="ReceiveNotifyButtonOff" value="取消推送勾选框"/>
+    <string key="SystemNotify" value="程序调用推送接口次数"/>
+    <string key="ClickNotification" value="从推送通知回来的用户（未完成牌局，每日挑战，3天不上线唤醒）"/>
+    <string key="ClickYesterdayButton" value="昨日日期按钮"/>
+    <string key="ClickTheDayBeforeYesterdayButton" value="前天日期按钮"/>
+    <string key="ClickBeforeYesterdayBeforeButton" value="前天之前日期按钮"/>
+    <string key="WinNumDailyChallenge" value="每日挑战的胜利次数"/>
+    <string key="ClickSetButton" value="设置按钮"/>
+    <string key="ClickManualButton" value="手动按钮"/>
+    <string key="ClickAutoButton" value="自动按钮"/>
+    <string key="SoundOff" value="音效关闭"/>
+    <string key="LeftHandOn" value="左手模式按钮开启"/>
+    <string key="ClickBackDropButton" value="点击rootOption里的BackDrop"/>
+    <string key="ClickCardFrontButton" value="点击rootOption里的CardFront"/>
+    <string key="ClickCardBackButton" value="点击rootOption里的CardBack"/>
+    <string key="SelectGameBG" value="桌面背景"/>
+    <string key="SelectCardFront" value="牌面各个样式"/>
+    <string key="SelectCardBack" value="牌背各个样式"/>
+    <string key="SelectLanguage" value="选择各个语言"/>
+    <string key="ContactUs" value="联系我们"/>
+    <string key="InviteFriend" value="邀请好友"/>
+    <string key="RateUsDone" value="5星评价－评价按钮"/>
+    <string key="RateUsCannel" value="5星评价－关闭按钮"/>
+    <string key="AdsOnEnterGame" value="首页广告"/>
+    <string key="AdsBanner" value="游戏界面下方广告"/>
+    <string key="AdsOnExitGame" value="退出游戏内推广告"/>
+    <string key="AdsNewGame" value="new game弹出广告"/>
+    <string key="InviteFriendSuccess" value=" 发送邀请好友成功的人数"/>
+</Lang>
